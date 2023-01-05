@@ -1,0 +1,43 @@
+
+.UserForm{
+  display: grid;
+  grid-template-columns: repeat(1,1fr);
+  height: 400px;
+  width: 40%;
+  
+  border-radius: 15px;
+  box-shadow: rgba( 0, 0, 0.15)  1.95px 2.6px;
+  margin: auto;
+  margin-top: 20mm;
+  padding: 5px;
+  align-items: center;
+  background-color: rgb(233, 236, 108);
+}
+#h2{
+  text-align: center;
+}
+#container{
+  margin: auto;
+  margin-top: 7px;
+  
+}
+#firstName{
+  margin-bottom: 12px;
+}
+#lastName{
+  margin-bottom: 12px;
+}
+#country{
+  margin-bottom: 12px;
+}
+#gender{
+  margin-bottom: 12px;
+}
+#email{
+  margin-bottom: 12px;
+}
+#file{
+  margin-bottom: 12px;
+}
+
+
